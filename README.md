@@ -4,13 +4,13 @@
 
 ## **What is a Dot Product?**
 
-In mathematics, the dot product of two vectors $$\( \mathbf{a} \)$$ and $$\( \mathbf{b} \)$$ is given by:
+In mathematics, the _dot product_ of two vectors $$\( \mathbf{a} \)$$ and $$\( \mathbf{b} \)$$ is given by:
 
 $$\[
 \mathbf{a} \cdot \mathbf{b} = \sum_{i=1}^{n} a_i b_i
 \]$$
 
-The dot product measures how much two vectors align with each other. It's commonly used in computer science, physics, and data science applications like machine learning.
+The _dot product_ measures how much two vectors align with each other. It's commonly used in computer science, physics, and data science applications like machine learning.
 
 ---
 
